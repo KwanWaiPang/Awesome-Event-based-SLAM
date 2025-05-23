@@ -159,11 +159,12 @@ Feel free to share this list with others!
 
 ## Event Dataset for SLAM Benchmarking
 * Most of the data sequence can be downloaded from *website* or *github*, while the marked as `*Not-release` is not publicly available
+
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
-
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection](https://arxiv.org/pdf/2505.11282)|[![Github stars](https://img.shields.io/github/stars/shrutarv/MTevent_toolkit.svg)](https://github.com/shrutarv/MTevent_toolkit) |---| 
 |2024|`RAL`|[CEAR: Comprehensive Event Camera Dataset for Rapid Perception of Agile Quadruped Robots](https://arxiv.org/pdf/2404.04698)|---|[website](https://daroslab.github.io/cear/)| 
 |2023|`TIV`|[ECMD: An Event-Centric Multisensory Driving Dataset for SLAM](https://arxiv.org/pdf/2311.02327)|---|[website](https://arclab-hku.github.io/ecmd/)| 
 |2023|`European Conference on Mobile Robots`|[Stereo visual localization dataset featuring event cameras](https://ieeexplore.ieee.org/abstract/document/10256407/)|---|*Not-release<br>[website](https://bitbucket.org/unizg-fer-lamor/event-dataset/)| 
