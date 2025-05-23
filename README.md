@@ -26,6 +26,13 @@ For academic used, please considering citing the following:
 Feel free to share this list with others!
 
 
+# Overview
+- [Event-based Pose Estimation](#Event-based-Pose-Estimation)
+- [Event-based Depth Estimation](#Event-based-Depth-Estimation)
+- [Event-based 3DGS](#Event-based-3DGS)
+- [Event Dataset for SLAM Benchmarking](#Event-Dataset-for-SLAM-Benchmarking)
+
+
 ## Event-based Pose Estimation
 
 <!-- |---|`arXiv`|---|---|---| -->
@@ -143,3 +150,11 @@ Feel free to share this list with others!
 * [Course: Event-based Robot Vision](https://www.youtube.com/playlist?list=PL03Gm3nZjVgUFYUh3v5x8jVonjrGfcal8)
 * [HKU-Dataset for Event-based VO/VIO/SLAM](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM)
 * Paper Survey for Event-based Contrast Maximization: [Paper list](https://github.com/KwanWaiPang/Awesome-Event-based-Contrast-Maximization) and [blog](https://kwanwaipang.github.io/Awesome-Event-based-Contrast-Maximization/)
+
+
+
+
+
+
+
+  
