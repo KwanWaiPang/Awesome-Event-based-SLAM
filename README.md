@@ -164,21 +164,29 @@ Feel free to share this list with others!
 
 ## Event Dataset for SLAM Benchmarking
 
+* Most of the data sequence can be downloaded from *website* or *github*, while the marked as `*not-released` is not publicly available
+
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
 |2022|`Github`|[HKU-Dataset for Event-based VO/VIO/SLAM](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM)|[![Github stars](https://img.shields.io/github/stars/arclab-hku/Event_based_VO-VIO-SLAM.svg)](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM)|HKU-Dataset|
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|2021|`ICRA`|[An Event-based vision dataset for visual navigation tasks in agricultural environments](https://ieeexplore.ieee.org/abstract/document/9561741/)|---|AGRI-EBV-AUTUMN<br>| 
+|2022|`RAL`|[ViViD++: Vision for Visibility Dataset](https://arxiv.org/pdf/2204.06183)|---|[website](https://visibilitydataset.github.io/)| 
+|2022|`IROS`|[FusionPortable: A Multi-Sensor Campus-Scene Dataset for Evaluation of Localization and Mapping Accuracy on Diverse Platforms](https://arxiv.org/pdf/2208.11865)|---|*Not-release| 
+|2022|`CVPR`|[Event-aided Direct Sparse Odometry](https://openaccess.thecvf.com/content/CVPR2022/papers/Hidalgo-Carrio_Event-Aided_Direct_Sparse_Odometry_CVPR_2022_paper.pdf)|---|[https://rpg.ifi.uzh.ch/eds.html](website)| 
+|2022|`RAL`|[VECtor: A Versatile Event-Centric Benchmark for Multi-Sensor SLAM](https://arxiv.org/pdf/2207.01404)|---|[website](https://star-datasets.github.io/vector/)<br>[rosbag format](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM#Modified-vector-dataset)| 
+|2021|`RAL`|[M2dgr: A multi-sensor and multi-scenario slam dataset for ground robots](https://arxiv.org/pdf/2112.13659)|[![Github stars](https://img.shields.io/github/stars/SJTU-ViSYS/M2DGR.svg)](https://github.com/SJTU-ViSYS/M2DGR)|The Event Data is just Noise| 
+|2021|`IROS`|[TUM-VIE: The TUM stereo visual-inertial event dataset](https://arxiv.org/pdf/2108.07329)|---|[website](https://go.vision.in.tum.de/tumvie)| 
+|2021|`ICRA`|[An Event-based vision dataset for visual navigation tasks in agricultural environments](https://ieeexplore.ieee.org/abstract/document/9561741/)|---|AGRI-EBV-AUTUMN<br>[website](https://ieee-dataport.org/open-access/agri-ebv-autumn)| 
 |2021|`RAL`|[The GRIFFIN perception dataset: Bridging the gap between flapping-wing flight and robotic perception](https://arxiv.org/pdf/2101.10371)|---|[website](http://grvc.us.es/eye-bird-dataset)| 
-|2021|`RAL`|[Dsec: A stereo event camera dataset for driving scenarios](https://ieeexplore.ieee.org/ielaam/7083369/9399748/9387069-aam.pdf)|---|[website](https://dsec.ifi.uzh.ch/)<br>[rosbag format](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM?tab=readme-ov-file#Modified-dsec-dataset)| 
-|2020|`arXiv`|[A large scale event-based detection dataset for automotive](https://arxiv.org/pdf/2001.08499)|---|Not-release<br>[website](https://www.prophesee.ai/2020/01/24/prophesee-gen1-automotive-detection-dataset/)| 
+|2021|`RAL`|[Dsec: A stereo event camera dataset for driving scenarios](https://ieeexplore.ieee.org/ielaam/7083369/9399748/9387069-aam.pdf)|---|[website](https://dsec.ifi.uzh.ch/)<br>[rosbag format](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM#Modified-dsec-dataset)| 
+|2020|`arXiv`|[A large scale event-based detection dataset for automotive](https://arxiv.org/pdf/2001.08499)|---|*Not-release<br>[website](https://www.prophesee.ai/2020/01/24/prophesee-gen1-automotive-detection-dataset/)| 
 |2020|`RAL`|[Event-based visual place recognition with ensembles of temporal windows](https://arxiv.org/pdf/2006.02826)|[![Github stars](https://img.shields.io/github/stars/Tobias-Fischer/ensemble-event-vpr.svg)](https://github.com/Tobias-Fischer/ensemble-event-vpr) |Brisbane-Event-VPR<br>[website](https://zenodo.org/records/4302805)| 
 |2020|`ITSC`|[Ddd20 end-to-end event camera driving dataset: Fusing frames and events with deep learning for improved steering prediction](https://arxiv.org/pdf/2005.08605)|---|[website](https://sites.google.com/view/davis-driving-dataset-2020/home)| 
 |2019|`TPAMI`|[High speed and high dynamic range video with an event camera](https://arxiv.org/pdf/1906.07165)|---|E2VID<br>[website](https://rpg.ifi.uzh.ch/E2VID.html)| 
