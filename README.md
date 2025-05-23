@@ -42,25 +42,25 @@ Feel free to share this list with others!
 |2024|`TIV`|[Dh-ptam: a deep hybrid stereo events-frames parallel tracking and mapping system](https://arxiv.org/pdf/2306.01891)|[![Github stars](https://img.shields.io/github/stars/AbanobSoliman/DH-PTAM.svg)](https://github.com/AbanobSoliman/DH-PTAM)|Superpoint+[stereo ptam](https://github.com/uoip/stereo_ptam)|
 |2023|`TIV`|[MC-VEO: A visual-event odometry with accurate 6-DoF motion compensation](https://ieeexplore.ieee.org/abstract/document/10275026)|[![Github stars](https://img.shields.io/github/stars/huangfeng95/mc-veo-buildconf.svg)](https://github.com/huangfeng95/mc-veo-buildconf)|-|
 |2022|`Processes`|[Contrast maximization-based feature tracking for visual odometry with an event camera](https://www.mdpi.com/2227-9717/10/10/2081)|-|-|
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|2022|`IROS`|[Monocular Event Visual Inertial Odometry based on Event-corner using Sliding Windows Graph-based Optimization](https://kwanwaipang.github.io/Poster_files/papers/Monocular%20Event%20Visual%20Inertial%20Odometry%20Based%20on%20Event-Corner%20Using%20Sliding%20Windows%20Graph-Based%20Optimization.pdf)|---|[website](https://kwanwaipang.github.io/Mono-EIO/)| 
 |2022|`Sensor`|[Visual Odometry with an Event Camera Using Continuous Ray Warping and Volumetric Contrast Maximization](https://arxiv.org/pdf/2107.03011)|-|-| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
+|2022|`ICRA`|[Asynchronous optimisation for event-based visual odometry](https://arxiv.org/pdf/2203.01037)|---|---| 
+|2021|`CVPR`|[Spatiotemporal registration for event-based visual odometry](http://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Spatiotemporal_Registration_for_Event-Based_Visual_Odometry_CVPR_2021_paper.pdf)|---|---| 
+|2021|`RAL`|[Real-time rotational motion estimation with contrast maximization over globally aligned events](https://ieeexplore.ieee.org/abstract/document/9454404/)|---|---| 
+|2021|`European Conference on Mobile Robots`|[Feature-based Event Stereo Visual Odometry](https://arxiv.org/pdf/2107.04921)|---|---| 
 |2021|`TRO`|[Event-based stereo visual odometry](https://arxiv.org/pdf/2007.15548)| [![Github stars](https://img.shields.io/github/stars/HKUST-Aerial-Robotics/ESVO.svg)](https://github.com/HKUST-Aerial-Robotics/ESVO)|---| 
 |2020|`TPAMI`|[Globally-optimal contrast maximisation for event cameras](https://arxiv.org/pdf/2206.05127)|---|---| 
 |2020|`ECCV`|[Globally-optimal event camera motion estimation](https://arxiv.org/pdf/2203.03914)|---|---| 
