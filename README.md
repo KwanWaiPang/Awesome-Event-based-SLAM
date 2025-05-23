@@ -54,6 +54,27 @@ Feel free to share this list with others!
 |---|`arXiv`|---|---|---| 
 |---|`arXiv`|---|---|---| 
 |---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|2018|`RAL`|[Ultimate SLAM? Combining events, images, and IMU for robust visual SLAM in HDR and high-speed scenarios](https://arxiv.org/pdf/1709.06310)|[![Github stars](https://img.shields.io/github/stars/uzh-rpg/rpg_ultimate_slam_open.svg)](https://github.com/uzh-rpg/rpg_ultimate_slam_open)|---| 
+|2018|`TRO`|[Continuous-time visual-inertial odometry for event cameras](https://arxiv.org/pdf/1702.07389)|---|---| 
+|2017|`TPAMI`|[Event-based, 6-DOF camera tracking from photometric depth maps](https://arxiv.org/pdf/1607.03468)|---|---| 
+|2017|`IEEE International Conference on Computational Photography`|[Real-time panoramic tracking for event cameras](https://arxiv.org/pdf/1703.05161)|---|---| 
+|2017|`BMVC`|[Real-time Visual-Inertial Odometry for Event Cameras using Keyframe-based Nonlinear Optimization](https://www.zora.uzh.ch/id/eprint/139471/1/BMVC17_Rebecq.pdf)|---|---| 
 |2017|`CVPR`|[Event-based visual inertial odometry](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Event-Based_Visual_Inertial_CVPR_2017_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/daniilidis-group/event_feature_tracking.svg)](https://github.com/daniilidis-group/event_feature_tracking)|---| 
 |2017|`RAL`|[Accurate angular velocity estimation with an event camera](https://www.zora.uzh.ch/id/eprint/138896/1/RAL16_Gallego.pdf)|---|---| 
 |2016|`RAL`|[Evo: A geometric approach to event-based 6-dof parallel tracking and mapping in real time](https://ieeexplore.ieee.org/ielaam/7083369/7797562/7797445-aam.pdf)|[![Github stars](https://img.shields.io/github/stars/uzh-rpg/rpg_dvs_evo_open.svg)](https://github.com/uzh-rpg/rpg_dvs_evo_open) |---| 
