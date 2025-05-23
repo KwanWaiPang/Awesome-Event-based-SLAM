@@ -61,7 +61,7 @@ Feel free to share this list with others!
 |2024|`arXiv`|[AsynEIO: Asynchronous Monocular Event-Inertial Odometry Using Gaussian Process Regression](https://arxiv.org/pdf/2411.12175)|---|---| 
 |2024|`arXiv`|[Efficient Continuous-Time Ego-Motion Estimation for Asynchronous Event-based Data Associations](https://ui.adsabs.harvard.edu/abs/2024arXiv240216398W/abstract)|---|---| 
 |2024|`ECCV`|[ES-PTAM: Event-based stereo parallel tracking and mapping](https://arxiv.org/pdf/2408.15605)|[![Github stars](https://img.shields.io/github/stars/tub-rip/ES-PTAM.svg)](https://github.com/tub-rip/ES-PTAM) |---| 
-|2024|`ECCV`|[Event-based mosaicing bundle adjustment](https://link.springer.com/chapter/10.1007/978-3-031-72624-8_27)|---|---| 
+|2024|`ECCV`|[Event-based mosaicing bundle adjustment](https://link.springer.com/chapter/10.1007/978-3-031-72624-8_27)|[![Github stars](https://img.shields.io/github/stars/tub-rip/emba.svg)](https://github.com/tub-rip/emba) |---| 
 |2024|`arXiv`|[Event-based Photometric Bundle Adjustment](https://arxiv.org/pdf/2412.14111?)|[![Github stars](https://img.shields.io/github/stars/tub-rip/epba.svg)](https://github.com/tub-rip/epba)|---| 
 |2024|`TRO`|[CMax-SLAM: Event-based Rotational-Motion Bundle Adjustment and SLAM System using Contrast Maximization](https://arxiv.org/pdf/2403.08119)|[![Github stars](https://img.shields.io/github/stars/tub-rip/cmax_slam.svg)](https://github.com/tub-rip/cmax_slam)|-|
 |2024|`Advanced Intelligent Systems`|[EVI-SAM: Robust, Real-Time, Tightly-Coupled Event--Visual--Inertial State Estimation and 3D Dense Mapping](https://advanced.onlinelibrary.wiley.com/doi/pdf/10.1002/aisy.202400243)|---|[website](https://kwanwaipang.github.io/EVI-SAM/)| 
