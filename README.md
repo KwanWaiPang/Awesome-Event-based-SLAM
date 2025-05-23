@@ -125,6 +125,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[DERD-Net: Learning Depth from Event-based Ray Densities](https://arxiv.org/pdf/2504.15863)| [![Github stars](https://img.shields.io/github/stars/tub-rip/DERD-Net.svg)](https://github.com/tub-rip/DERD-Net)|---| 
 |2024|`TPAMI`|[Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10517639)|[![Github stars](https://img.shields.io/github/stars/tub-rip/event_based_optical_flow.svg)](https://github.com/tub-rip/event_based_optical_flow)|-|
 |2022|`Advanced Intelligent Systems`|[Multi-Event-Camera Depth Estimation and Outlier Rejection by Refocused Events Fusion](https://onlinelibrary.wiley.com/doi/pdf/10.1002/aisy.202200221)| [![Github stars](https://img.shields.io/github/stars/tub-rip/dvs_mcemvs.svg)](https://github.com/tub-rip/dvs_mcemvs)|---|
 |2021|`RAL`|[Combining Events and Frames using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction](https://ieeexplore.ieee.org/ielaam/7083369/9285111/9359329-aam.pdf)|[![Github stars](https://img.shields.io/github/stars/uzh-rpg/rpg_ramnet.svg)](https://github.com/uzh-rpg/rpg_ramnet)|---| 
