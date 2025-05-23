@@ -132,6 +132,13 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
 
+## Event-based 3DGS
+* Refer to [Link](https://github.com/KwanWaiPang/Awesome-3DGS-SLAM#Event-based-3DGS)
+
+
+## Event Dataset for SLAM Benchmarking
+
+
 ## Other Resources
 * [Course: Event-based Robot Vision](https://www.youtube.com/playlist?list=PL03Gm3nZjVgUFYUh3v5x8jVonjrGfcal8)
 * [HKU-Dataset for Event-based VO/VIO/SLAM](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM)
