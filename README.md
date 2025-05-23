@@ -34,16 +34,26 @@ Feel free to share this list with others!
 |2025|`arXiv`|[SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection](https://arxiv.org/pdf/2504.00139)|[![Github stars](https://img.shields.io/github/stars/smartroboticslab/SuperEvent.svg)](https://github.com/smartroboticslab/SuperEvent)|[website](https://smartroboticslab.github.io/SuperEvent/)| 
 |2025|`arXiv`|[SuperEIO: Self-Supervised Event Feature Learning for Event Inertial Odometry](https://arxiv.org/pdf/2503.22963)|[![Github stars](https://img.shields.io/github/stars/arclab-hku/SuperEIO.svg)](https://github.com/arclab-hku/SuperEIO)|[website](https://arclab-hku.github.io/SuperEIO/)|
 |2025|`RAL`|[Event-Frame-Inertial Odometry Using Point and Line Features Based on Coarse-to-Fine Motion Compensation](https://ieeexplore.ieee.org/abstract/document/10855459)|[![Github stars](https://img.shields.io/github/stars/choibottle/C2F-EFIO.svg)](https://github.com/choibottle/C2F-EFIO)|-|
+|2025|`arXiv`|[EVLoc: Event-based Visual Localization in LiDAR Maps via Event-Depth Registration](https://arxiv.org/pdf/2503.00167?)|---|---| 
+|2025|`TRO`|[Esvo2: Direct visual-inertial odometry with stereo event cameras](https://arxiv.org/pdf/2410.09374?)| [![Github stars](https://img.shields.io/github/stars/NAIL-HNU/ESVO2.svg)](https://github.com/NAIL-HNU/ESVO2)|---| 
+|2025|`IJCV`|[METS: Motion-Encoded Time-Surface for Event-Based High-Speed Pose Tracking](https://link.springer.com/article/10.1007/s11263-025-02379-6)|---|---| 
+|2025|`Sensor`|[Stereo Event-Based Visual--Inertial Odometry](https://pmc.ncbi.nlm.nih.gov/articles/PMC11819757/)|---|---| 
 |2024|`arXiv`|[DEIO: Deep Event Inertial Odometry](https://arxiv.org/pdf/2411.03928)|[![Github stars](https://img.shields.io/github/stars/arclab-hku/DEIO.svg)](https://github.com/arclab-hku/DEIO)|[website](https://kwanwaipang.github.io/DEIO/)|
 |2024|`IROS`|[Deep Visual Odometry with Events and Frames](https://arxiv.org/pdf/2309.09947)|[![Github stars](https://img.shields.io/github/stars/uzh-rpg/rampvo.svg)](https://github.com/uzh-rpg/rampvo)|RAMP-VO| 
 |2024|`arXiv`|[EROAM: Event-based Camera Rotational Odometry and Mapping in Real-time](https://arxiv.org/pdf/2411.11004)|[![Github stars](https://img.shields.io/github/stars/wlxing1901/eroam.svg)](https://github.com/wlxing1901/eroam)|-|
 |2024|`3DV`|[Deep event visual odometry](https://arxiv.org/pdf/2312.09800)|[![Github stars](https://img.shields.io/github/stars/tum-vision/DEVO.svg)](https://github.com/tum-vision/DEVO)|---|
 |2024|`TIV`|[Dh-ptam: a deep hybrid stereo events-frames parallel tracking and mapping system](https://arxiv.org/pdf/2306.01891)|[![Github stars](https://img.shields.io/github/stars/AbanobSoliman/DH-PTAM.svg)](https://github.com/AbanobSoliman/DH-PTAM)|Superpoint+[stereo ptam](https://github.com/uoip/stereo_ptam)|
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|2024|`arXiv`|[Event-based Photometric Bundle Adjustment](https://arxiv.org/pdf/2412.14111?)|---|---| 
+|2024|`ICRA`|[Imu-aided event-based stereo visual odometry](https://arxiv.org/pdf/2405.04071)| [![Github stars](https://img.shields.io/github/stars/NAIL-HNU/ESVIO_AA.svg)](https://github.com/NAIL-HNU/ESVIO_AA)|---| 
+|2024|`RAL`|[FAST-LIEO: Fast and Real-Time LiDAR-Inertial-Event-Visual Odometry](https://ieeexplore.ieee.org/abstract/document/10816457/)|---|---| 
+|2024|`arXiv`|[Continuous Gaussian Process Pre-Optimization for Asynchronous Event-Inertial Odometry](https://arxiv.org/pdf/2412.08909)|---|---| 
+|2024|`IROS`|[EVIT: Event-based visual-inertial tracking in semi-dense maps using windowed nonlinear optimization](https://arxiv.org/pdf/2408.01370)|[![Github stars](https://img.shields.io/github/stars/MobilePerceptionLab/Canny-EVT.svg)](https://github.com/MobilePerceptionLab/Canny-EVT)|---| 
+|2024|`TRO`|[Cross-modal semi-dense 6-dof tracking of an event camera in challenging conditions](https://arxiv.org/pdf/2401.08043)|[![Github stars](https://img.shields.io/github/stars/MobilePerceptionLab/Canny-EVT.svg)](https://github.com/MobilePerceptionLab/Canny-EVT)|---| 
+|2024|`IROS`|[Asynchronous Event-Inertial Odometry using a Unified Gaussian Process Regression Framework](https://arxiv.org/pdf/2412.03136)|---|---| 
+|2024|`arXiv`|[AsynEIO: Asynchronous Monocular Event-Inertial Odometry Using Gaussian Process Regression](https://arxiv.org/pdf/2411.12175)|---|---| 
+|2024|`arXiv`|[Efficient Continuous-Time Ego-Motion Estimation for Asynchronous Event-based Data Associations](https://ui.adsabs.harvard.edu/abs/2024arXiv240216398W/abstract)|---|---| 
+|2024|`ECCV`|[ES-PTAM: Event-based stereo parallel tracking and mapping](https://arxiv.org/pdf/2408.15605)|[![Github stars](https://img.shields.io/github/stars/tub-rip/ES-PTAM.svg)](https://github.com/tub-rip/ES-PTAM) |---| 
+|2024|`ECCV`|[Event-based mosaicing bundle adjustment](https://link.springer.com/chapter/10.1007/978-3-031-72624-8_27)|---|---| 
+|2024|`arXiv`|[Event-based Photometric Bundle Adjustment](https://arxiv.org/pdf/2412.14111?)|[![Github stars](https://img.shields.io/github/stars/tub-rip/epba.svg)](https://github.com/tub-rip/epba)|---| 
 |2024|`TRO`|[CMax-SLAM: Event-based Rotational-Motion Bundle Adjustment and SLAM System using Contrast Maximization](https://arxiv.org/pdf/2403.08119)|[![Github stars](https://img.shields.io/github/stars/tub-rip/cmax_slam.svg)](https://github.com/tub-rip/cmax_slam)|-|
 |2024|`Advanced Intelligent Systems`|[EVI-SAM: Robust, Real-Time, Tightly-Coupled Event--Visual--Inertial State Estimation and 3D Dense Mapping](https://advanced.onlinelibrary.wiley.com/doi/pdf/10.1002/aisy.202400243)|---|[website](https://kwanwaipang.github.io/EVI-SAM/)| 
 |2024|`IROS`|[Monocular Event-Inertial Odometry with Adaptive decay-based Time Surface and Polarity-aware Tracking](https://arxiv.org/pdf/2409.13971)|---|---| 
