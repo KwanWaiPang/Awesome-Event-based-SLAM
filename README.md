@@ -196,6 +196,7 @@ Feel free to share this list with others!
 * [HKU-Dataset for Event-based VO/VIO/SLAM](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM)
 * Paper Survey for Event-based Contrast Maximization: [Paper list](https://github.com/KwanWaiPang/Awesome-Event-based-Contrast-Maximization) and [blog](https://kwanwaipang.github.io/Awesome-Event-based-Contrast-Maximization/)
 * More related papers:
+
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2021|`CVPR`|[How to Calibrate Your Event Camera](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Muglikar_How_To_Calibrate_Your_Event_Camera_CVPRW_2021_paper.pdf)| [![Github stars](https://img.shields.io/github/stars/uzh-rpg/e2calib.svg)](https://github.com/uzh-rpg/e2calib)|---|
