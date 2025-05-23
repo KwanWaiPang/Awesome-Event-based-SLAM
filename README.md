@@ -171,10 +171,10 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
+|2024|`RAL`|[CEAR: Comprehensive Event Camera Dataset for Rapid Perception of Agile Quadruped Robots](https://arxiv.org/pdf/2404.04698)|---|[website](https://daroslab.github.io/cear/)| 
+|2023|`TIV`|[ECMD: An Event-Centric Multisensory Driving Dataset for SLAM](https://arxiv.org/pdf/2311.02327)|---|[website](https://arclab-hku.github.io/ecmd/)| 
+|2023|`European Conference on Mobile Robots`|[Stereo visual localization dataset featuring event cameras](https://ieeexplore.ieee.org/abstract/document/10256407/)|---|*Not-release<br>[website](https://bitbucket.org/unizg-fer-lamor/event-dataset/)| 
+|2023|`TITS`|[MA-VIED: A Multisensor Automotive Visual Inertial Event Dataset](https://ieeexplore.ieee.org/abstract/document/10254473/)| [![Github stars](https://img.shields.io/github/stars/isarlab-department-engineering/MA-VIED.svg)](https://github.com/isarlab-department-engineering/MA-VIED)|---| 
 |2023|`CVPR`|[M3ED: Multi-Robot, Multi-Sensor, Multi-Environment Event Dataset](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Chaney_M3ED_Multi-Robot_Multi-Sensor_Multi-Environment_Event_Dataset_CVPRW_2023_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/daniilidis-group/m3ed.svg)](https://github.com/daniilidis-group/m3ed)|[website](https://m3ed.io/)| 
 |2022|`Github`|[HKU-Dataset for Event-based VO/VIO/SLAM](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM)|[![Github stars](https://img.shields.io/github/stars/arclab-hku/Event_based_VO-VIO-SLAM.svg)](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM)|HKU-Dataset|
 |2022|`RAL`|[ViViD++: Vision for Visibility Dataset](https://arxiv.org/pdf/2204.06183)|---|[website](https://visibilitydataset.github.io/)| 
