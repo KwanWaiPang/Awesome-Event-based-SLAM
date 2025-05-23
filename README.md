@@ -29,6 +29,7 @@ Feel free to share this list with others!
 # Overview
 - [Event-based Pose Estimation](#Event-based-Pose-Estimation)
 - [Event-based Depth Estimation](#Event-based-Depth-Estimation)
+- [Event-based Feature Detection and Tracking](#Event-based-Feature-Detection-and-Tracking)
 - [Event-based 3DGS](#Event-based-3DGS)
 - [Event Dataset for SLAM Benchmarking](#Event-Dataset-for-SLAM-Benchmarking)
 
@@ -97,7 +98,7 @@ Feel free to share this list with others!
 |2020|`IROS`|[Unsupervised learning of dense optical flow, depth and egomotion with event-based sensors](http://ras.papercept.net/images/temp/IROS/files/1193.pdf)|---|---| 
 |2019|`CVPR`|[Unsupervised event-based learning of optical flow, depth, and egomotion](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Unsupervised_Event-Based_Learning_of_Optical_Flow_Depth_and_Egomotion_CVPR_2019_paper.pdf)|---|---| 
 |2019|`IEEE International Conference on Robotics and Biomimetics`|[Neuromorphic visual odometry system for intelligent vehicle application with bio-inspired vision sensor](https://arxiv.org/pdf/1909.02490)|---|---| 
-|2019|`ICRA`|[Event-based, direct camera tracking from a photometric 3d map using nonlinear optimization](https://www.zora.uzh.ch/id/eprint/197737/1/ICRA19_Bryner.pdf)|---|---| 
+|2019|`ICRA`|[Event-based, direct camera tracking from a photometric 3d map using nonlinear optimization](https://www.zora.uzh.ch/id/eprint/197737/1/ICRA19_Bryner.pdf)|[![Github stars](https://img.shields.io/github/stars/uzh-rpg/direct_event_camera_tracker.svg)](https://github.com/uzh-rpg/direct_event_camera_tracker)|---| 
 |2018|`RAL`|[Ultimate SLAM? Combining events, images, and IMU for robust visual SLAM in HDR and high-speed scenarios](https://arxiv.org/pdf/1709.06310)|[![Github stars](https://img.shields.io/github/stars/uzh-rpg/rpg_ultimate_slam_open.svg)](https://github.com/uzh-rpg/rpg_ultimate_slam_open)|---| 
 |2018|`TRO`|[Continuous-time visual-inertial odometry for event cameras](https://arxiv.org/pdf/1702.07389)|---|---| 
 |2017|`TPAMI`|[Event-based, 6-DOF camera tracking from photometric depth maps](https://arxiv.org/pdf/1607.03468)|---|---| 
@@ -124,16 +125,32 @@ Feel free to share this list with others!
 
 
 ## Event-based Depth Estimation
-
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2024|`TPAMI`|[Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10517639)|[![Github stars](https://img.shields.io/github/stars/tub-rip/event_based_optical_flow.svg)](https://github.com/tub-rip/event_based_optical_flow)|-|
+|2022|`Advanced Intelligent Systems`|[Multi-Event-Camera Depth Estimation and Outlier Rejection by Refocused Events Fusion](https://onlinelibrary.wiley.com/doi/pdf/10.1002/aisy.202200221)| [![Github stars](https://img.shields.io/github/stars/tub-rip/dvs_mcemvs.svg)](https://github.com/tub-rip/dvs_mcemvs)|---|
+|2021|`RAL`|[Combining Events and Frames using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction](https://ieeexplore.ieee.org/ielaam/7083369/9285111/9359329-aam.pdf)|[![Github stars](https://img.shields.io/github/stars/uzh-rpg/rpg_ramnet.svg)](https://github.com/uzh-rpg/rpg_ramnet)|---| 
+|2020|`3DV`|[Learning Monocular Dense Depth from Events](https://arxiv.org/pdf/2010.08350)|[![Github stars](https://img.shields.io/github/stars/uzh-rpg/rpg_e2depth.svg)](https://github.com/uzh-rpg/rpg_e2depth)|---|
 |2019|`CVPR`|[Unsupervised event-based learning of optical flow, depth, and egomotion](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Unsupervised_Event-Based_Learning_of_Optical_Flow_Depth_and_Egomotion_CVPR_2019_paper.pdf)|-|-| 
 |2018|`CVPR`|[A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth and Optical Flow Estimation](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gallego_A_Unifying_Contrast_CVPR_2018_paper.pdf)|-|[supplementary material](https://www.ifi.uzh.ch/dam/jcr:a22071c9-b284-43c6-8f71-6433627b2db2/CVPR18_Gallego.pdf)| 
+|2018|`IJCV`|[EMVS: Event-based multi-view stereo—3D reconstruction with an event camera in real-time](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/211919/2/s11263-017-1050-6.pdf)|[![Github stars](https://img.shields.io/github/stars/uzh-rpg/rpg_emvs.svg)](https://github.com/uzh-rpg/rpg_emvs)|---|
 
+<!-- |---|`arXiv`|---|---|---| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
+
+
+## Event-based Feature Detection and Tracking
+<!-- |---|`arXiv`|---|---|---| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
+| Year | Venue | Paper Title | Repository | Note |
+|:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`TPAMI`|[Data-driven Feature Tracking for Event Cameras with and without Frames](https://drive.google.com/file/d/1WfHx8tD2xw3quaIe6xoZZTRG4Nv1xe_u/view)|[![Github stars](https://img.shields.io/github/stars/uzh-rpg/deep_ev_tracker.svg)](https://github.com/uzh-rpg/deep_ev_tracker)|---|
+|2023|`CVPR`|[Data-driven feature tracking for event cameras](https://openaccess.thecvf.com/content/CVPR2023/papers/Messikommer_Data-Driven_Feature_Tracking_for_Event_Cameras_CVPR_2023_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/uzh-rpg/deep_ev_tracker.svg)](https://github.com/uzh-rpg/deep_ev_tracker)|---|
+|2019|`IJCV`|[EKLT: Asynchronous photometric feature tracking using events and frames](https://www.zora.uzh.ch/id/eprint/197701/1/eklt_ijcv19.pdf)|[![Github stars](https://img.shields.io/github/stars/uzh-rpg/rpg_eklt.svg)](https://github.com/uzh-rpg/rpg_eklt)|[Feature Tracking Analysis](https://github.com/uzh-rpg/rpg_feature_tracking_analysis)|
+|2017|`BMVC`|[Fast event-based corner detection](https://www.zora.uzh.ch/id/eprint/138925/1/BMVC17_Mueggler%20(3).pdf)|[![Github stars](https://img.shields.io/github/stars/uzh-rpg/rpg_corner_events.svg)](https://github.com/uzh-rpg/rpg_corner_events) |---|
 
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
@@ -144,9 +161,20 @@ Feel free to share this list with others!
 
 
 ## Event Dataset for SLAM Benchmarking
+| Year | Venue | Paper Title | Repository | Note |
+|:----:|:-----:| ----------- |:----------:|:----:|
+|2022|`Github`|[HKU-Dataset for Event-based VO/VIO/SLAM](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM)|[![Github stars](https://img.shields.io/github/stars/arclab-hku/Event_based_VO-VIO-SLAM.svg)](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM)|HKU-Dataset|
 
 
 ## Other Resources
+<!-- |---|`arXiv`|---|---|---| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
+| Year | Venue | Paper Title | Repository | Note |
+|:----:|:-----:| ----------- |:----------:|:----:|
+|2021|`CVPR`|[How to Calibrate Your Event Camera](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Muglikar_How_To_Calibrate_Your_Event_Camera_CVPRW_2021_paper.pdf)| [![Github stars](https://img.shields.io/github/stars/uzh-rpg/e2calib.svg)](https://github.com/uzh-rpg/e2calib)|---|
+|2020|`CVPR`|[Video to Events: Recycling Video Datasets for Event Cameras](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gehrig_Video_to_Events_Recycling_Video_Datasets_for_Event_Cameras_CVPR_2020_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/uzh-rpg/rpg_vid2e.svg)](https://github.com/uzh-rpg/rpg_vid2e) |[Test](https://kwanwaipang.github.io/File/Blogs/Poster/esim.html)|
+|2018|`CoRL`|[Esim: an open event camera simulator](http://proceedings.mlr.press/v87/rebecq18a/rebecq18a.pdf)|[![Github stars](https://img.shields.io/github/stars/uzh-rpg/rpg_esim.svg)](https://github.com/uzh-rpg/rpg_esim)|---|
+
 * [Course: Event-based Robot Vision](https://www.youtube.com/playlist?list=PL03Gm3nZjVgUFYUh3v5x8jVonjrGfcal8)
 * [HKU-Dataset for Event-based VO/VIO/SLAM](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM)
 * Paper Survey for Event-based Contrast Maximization: [Paper list](https://github.com/KwanWaiPang/Awesome-Event-based-Contrast-Maximization) and [blog](https://kwanwaipang.github.io/Awesome-Event-based-Contrast-Maximization/)
