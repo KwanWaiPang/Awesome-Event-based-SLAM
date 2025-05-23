@@ -11,6 +11,16 @@ If you find some ignored papers, **feel free to [*create pull requests*](https:/
 Contributions in any form to make this list more comprehensive are welcome.
 
 If you find this repositorie is useful, a simple star should be the best affirmation. 😊
+For academic used, please considering citing the following:
+```bibtex
+@article{GuanPhdThesis,
+      title={Event-based Vision for 6-DOF Pose Tracking and 3D Mapping},
+      author={Guan, Weipeng},
+      journal={HKU Theses Online (HKUTO)},
+      year={2025},
+      publisher={The University of Hong Kong (Pokfulam, Hong Kong)}
+}      
+```
 
 Feel free to share this list with others!
 
@@ -35,7 +45,30 @@ Feel free to share this list with others!
 |2022|`Processes`|[Contrast maximization-based feature tracking for visual odometry with an event camera](https://www.mdpi.com/2227-9717/10/10/2081)|-|-|
 |2022|`Sensor`|[Visual Odometry with an Event Camera Using Continuous Ray Warping and Volumetric Contrast Maximization](https://arxiv.org/pdf/2107.03011)|-|-| 
 
-
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|2016|`ECCV`|[Real-time 3D reconstruction and 6-DoF tracking with an event camera](https://core.ac.uk/download/pdf/77017474.pdf)|---|---| 
+|2016|`IROS`|[Low-latency visual odometry using event-based feature tracks](https://infoscience.epfl.ch/bitstreams/8b6efd05-e55b-45ad-9932-89c939c5c6d8/download)|---|---| 
+|2015|`arXiv`|[Event-based camera pose tracking using a generative event model](https://arxiv.org/pdf/1510.01972)|---|---| 
+|2014|`IEEE/RSJ International Conference on Intelligent Robots and Systems`|[Event-based, 6-DOF pose tracking for high-speed maneuvers](https://www.zora.uzh.ch/id/eprint/125447/1/IROS14_Mueggler.pdf)|---|---| 
+|2014|`ICRA`|[Event-based 3D SLAM with a depth-augmented dynamic vision sensor](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d7e293687b47f24943ced291a01cb08b60588189)|---|---| 
+|2014|`ICRA`|[Low-latency event-based visual odometry](https://infoscience.epfl.ch/record/199738/files/ICRA14_Censi.pdf)|---|---| 
+|2013|`International Conference on Computer Vision Systems`|[Simultaneous localization and mapping for event-based vision systems](https://www.academia.edu/download/46707309/Simultaneous_Localization_and_Mapping_fo20160622-16469-sz3iui.pdf)|---|---| 
+|2012|`IEEE International Conference on Robotics and Biomimetics`|[Event-based particle filtering for robot self-localization](https://www.academia.edu/download/46707382/Event-based_particle_filtering_for_robot20160622-4108-1dk2qxl.pdf)|---|---| 
+|2008|`J. Solid State Circ`|[Simultaneous mosaicing and tracking with an event camera](https://bmva-archive.org.uk/bmvc/2014/files/abstract066.pdf)|---|---| 
 
 
 
