@@ -44,7 +44,6 @@ Feel free to share this list with others!
 |2023|`TIV`|[MC-VEO: A visual-event odometry with accurate 6-DoF motion compensation](https://ieeexplore.ieee.org/abstract/document/10275026)|[![Github stars](https://img.shields.io/github/stars/huangfeng95/mc-veo-buildconf.svg)](https://github.com/huangfeng95/mc-veo-buildconf)|-|
 |2022|`Processes`|[Contrast maximization-based feature tracking for visual odometry with an event camera](https://www.mdpi.com/2227-9717/10/10/2081)|-|-|
 |2022|`Sensor`|[Visual Odometry with an Event Camera Using Continuous Ray Warping and Volumetric Contrast Maximization](https://arxiv.org/pdf/2107.03011)|-|-| 
-
 |---|`arXiv`|---|---|---| 
 |---|`arXiv`|---|---|---| 
 |---|`arXiv`|---|---|---| 
@@ -59,7 +58,7 @@ Feel free to share this list with others!
 |---|`arXiv`|---|---|---| 
 |---|`arXiv`|---|---|---| 
 |---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
+|2016|`ICRA`|[Fast localization and tracking using event sensors](https://merl.com/publications/docs/TR2016-033.pdf)|---|---| 
 |2016|`ECCV`|[Real-time 3D reconstruction and 6-DoF tracking with an event camera](https://core.ac.uk/download/pdf/77017474.pdf)|---|---| 
 |2016|`IROS`|[Low-latency visual odometry using event-based feature tracks](https://infoscience.epfl.ch/bitstreams/8b6efd05-e55b-45ad-9932-89c939c5c6d8/download)|---|---| 
 |2015|`arXiv`|[Event-based camera pose tracking using a generative event model](https://arxiv.org/pdf/1510.01972)|---|---| 
