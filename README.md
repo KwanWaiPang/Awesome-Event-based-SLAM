@@ -61,15 +61,15 @@ Feel free to share this list with others!
 |---|`arXiv`|---|---|---| 
 |---|`arXiv`|---|---|---| 
 |---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
+|2021|`TRO`|[Event-based stereo visual odometry](https://arxiv.org/pdf/2007.15548)| [![Github stars](https://img.shields.io/github/stars/HKUST-Aerial-Robotics/ESVO.svg)](https://github.com/HKUST-Aerial-Robotics/ESVO)|---| 
+|2020|`TPAMI`|[Globally-optimal contrast maximisation for event cameras](https://arxiv.org/pdf/2206.05127)|---|---| 
+|2020|`ECCV`|[Globally-optimal event camera motion estimation](https://arxiv.org/pdf/2203.03914)|---|---| 
+|2020|`CVPR`|[Globally optimal contrast maximisation for event-based motion estimation](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Globally_Optimal_Contrast_Maximisation_for_Event-Based_Motion_Estimation_CVPR_2020_paper.pdf)|---|---| 
+|2020|`IROS`|[IDOL: A framework for IMU-DVS odometry using lines](https://arxiv.org/pdf/2008.05749)|---|---| 
+|2020|`IROS`|[Unsupervised learning of dense optical flow, depth and egomotion with event-based sensors](http://ras.papercept.net/images/temp/IROS/files/1193.pdf)|---|---| 
+|2019|`CVPR`|[Unsupervised event-based learning of optical flow, depth, and egomotion](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Unsupervised_Event-Based_Learning_of_Optical_Flow_Depth_and_Egomotion_CVPR_2019_paper.pdf)|---|---| 
+|2019|`IEEE International Conference on Robotics and Biomimetics`|[Neuromorphic visual odometry system for intelligent vehicle application with bio-inspired vision sensor](https://arxiv.org/pdf/1909.02490)|---|---| 
+|2019|`ICRA`|[Event-based, direct camera tracking from a photometric 3d map using nonlinear optimization](https://www.zora.uzh.ch/id/eprint/197737/1/ICRA19_Bryner.pdf)|---|---| 
 |2018|`RAL`|[Ultimate SLAM? Combining events, images, and IMU for robust visual SLAM in HDR and high-speed scenarios](https://arxiv.org/pdf/1709.06310)|[![Github stars](https://img.shields.io/github/stars/uzh-rpg/rpg_ultimate_slam_open.svg)](https://github.com/uzh-rpg/rpg_ultimate_slam_open)|---| 
 |2018|`TRO`|[Continuous-time visual-inertial odometry for event cameras](https://arxiv.org/pdf/1702.07389)|---|---| 
 |2017|`TPAMI`|[Event-based, 6-DOF camera tracking from photometric depth maps](https://arxiv.org/pdf/1607.03468)|---|---| 
