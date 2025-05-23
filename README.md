@@ -11,6 +11,7 @@ If you find some ignored papers, **feel free to [*create pull requests*](https:/
 Contributions in any form to make this list more comprehensive are welcome.
 
 If you find this repositorie is useful, a simple star should be the best affirmation. 😊
+
 For academic used, please considering citing the following:
 ```bibtex
 @article{GuanPhdThesis,
