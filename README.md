@@ -159,7 +159,7 @@ Feel free to share this list with others!
 
 
 ## Event-based 3DGS
-* Refer to [Link](https://github.com/KwanWaiPang/Awesome-3DGS-SLAM#Event-based-3DGS)
+* Paper survey in 3DGS-SLAM includes the event camera, please refer to [Link](https://github.com/KwanWaiPang/Awesome-3DGS-SLAM#Event-based-3DGS)
 
 
 ## Event Dataset for SLAM Benchmarking
