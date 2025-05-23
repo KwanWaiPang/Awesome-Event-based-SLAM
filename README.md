@@ -14,12 +14,10 @@ If you find this repositorie is useful, a simple star should be the best affirma
 
 For academic used, please considering citing the following:
 ```bibtex
-@article{GuanPhdThesis,
+@article{Guan,
       title={Event-based Vision for 6-DOF Pose Tracking and 3D Mapping},
       author={Guan, Weipeng},
-      journal={HKU Theses Online (HKUTO)},
       year={2025},
-      publisher={The University of Hong Kong (Pokfulam, Hong Kong)}
 }      
 ```
 
