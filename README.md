@@ -54,8 +54,8 @@ Feel free to share this list with others!
 |---|`arXiv`|---|---|---| 
 |---|`arXiv`|---|---|---| 
 |---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
+|2017|`CVPR`|[Event-based visual inertial odometry](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Event-Based_Visual_Inertial_CVPR_2017_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/daniilidis-group/event_feature_tracking.svg)](https://github.com/daniilidis-group/event_feature_tracking)|---| 
+|2017|`RAL`|[Accurate angular velocity estimation with an event camera](https://www.zora.uzh.ch/id/eprint/138896/1/RAL16_Gallego.pdf)|---|---| 
 |2016|`RAL`|[Evo: A geometric approach to event-based 6-dof parallel tracking and mapping in real time](https://ieeexplore.ieee.org/ielaam/7083369/7797562/7797445-aam.pdf)|[![Github stars](https://img.shields.io/github/stars/uzh-rpg/rpg_dvs_evo_open.svg)](https://github.com/uzh-rpg/rpg_dvs_evo_open) |---| 
 |2016|`ICRA`|[Fast localization and tracking using event sensors](https://merl.com/publications/docs/TR2016-033.pdf)|---|---| 
 |2016|`ECCV`|[Real-time 3D reconstruction and 6-DoF tracking with an event camera](https://core.ac.uk/download/pdf/77017474.pdf)|---|---| 
