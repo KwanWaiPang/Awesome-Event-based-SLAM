@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">
-  Awesome-Event-based-SLAM
+  Awesome Event-based SLAM
   </h1>
 </p>
 
