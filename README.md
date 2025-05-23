@@ -163,9 +163,30 @@ Feel free to share this list with others!
 
 
 ## Event Dataset for SLAM Benchmarking
+
+<!-- |---|`arXiv`|---|---|---| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
+
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2022|`Github`|[HKU-Dataset for Event-based VO/VIO/SLAM](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM)|[![Github stars](https://img.shields.io/github/stars/arclab-hku/Event_based_VO-VIO-SLAM.svg)](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM)|HKU-Dataset|
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|---|`arXiv`|---|---|---| 
+|2021|`ICRA`|[An Event-based vision dataset for visual navigation tasks in agricultural environments](https://ieeexplore.ieee.org/abstract/document/9561741/)|---|AGRI-EBV-AUTUMN<br>| 
+|2021|`RAL`|[The GRIFFIN perception dataset: Bridging the gap between flapping-wing flight and robotic perception](https://arxiv.org/pdf/2101.10371)|---|[website](http://grvc.us.es/eye-bird-dataset)| 
+|2021|`RAL`|[Dsec: A stereo event camera dataset for driving scenarios](https://ieeexplore.ieee.org/ielaam/7083369/9399748/9387069-aam.pdf)|---|[website](https://dsec.ifi.uzh.ch/)<br>[rosbag format](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM?tab=readme-ov-file#Modified-dsec-dataset)| 
+|2020|`arXiv`|[A large scale event-based detection dataset for automotive](https://arxiv.org/pdf/2001.08499)|---|Not-release<br>[website](https://www.prophesee.ai/2020/01/24/prophesee-gen1-automotive-detection-dataset/)| 
+|2020|`RAL`|[Event-based visual place recognition with ensembles of temporal windows](https://arxiv.org/pdf/2006.02826)|[![Github stars](https://img.shields.io/github/stars/Tobias-Fischer/ensemble-event-vpr.svg)](https://github.com/Tobias-Fischer/ensemble-event-vpr) |Brisbane-Event-VPR<br>[website](https://zenodo.org/records/4302805)| 
+|2020|`ITSC`|[Ddd20 end-to-end event camera driving dataset: Fusing frames and events with deep learning for improved steering prediction](https://arxiv.org/pdf/2005.08605)|---|[website](https://sites.google.com/view/davis-driving-dataset-2020/home)| 
+|2019|`TPAMI`|[High speed and high dynamic range video with an event camera](https://arxiv.org/pdf/1906.07165)|---|E2VID<br>[website](https://rpg.ifi.uzh.ch/E2VID.html)| 
+|2019|`CVPR`|[CED: Color event camera dataset](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Scheerlinck_CED_Color_Event_Camera_Dataset_CVPRW_2019_paper.pdf)|---|[website](https://rpg.ifi.uzh.ch/CED.html)| 
+|2019|`ICRA`|[Are we ready for autonomous drone racing? the UZH-FPV drone racing dataset](https://www.zora.uzh.ch/id/eprint/197739/1/ICRA19_Delmerico.pdf)|---|UZH-FPV<br>[website](https://fpv.ifi.uzh.ch/)| 
+|2018|`RAL`|[The multivehicle stereo event camera dataset: An event camera dataset for 3D perception](https://arxiv.org/pdf/1801.10202)|---|MVSEC<br>[website](https://daniilidis-group.github.io/mvsec/)| 
+|2017|`arXiv`|[DDD17: End-to-end DAVIS driving dataset](https://arxiv.org/pdf/1711.01458)|---|[website](https://docs.google.com/document/d/1HM0CSmjO8nOpUeTvmPjopcBcVCk7KXvLUuiZFS6TWSg/pub)| 
+|2017|`IJRR`|[The event-camera dataset and simulator: Event-based data for pose estimation, visual odometry, and SLAM](https://journals.sagepub.com/doi/pdf/10.1177/0278364917691115)|---|davis240c<br>[website](https://rpg.ifi.uzh.ch/davis_data.html)|
 
 
 ## Other Resources
