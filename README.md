@@ -12,6 +12,7 @@ Contributions in any form to make this list more comprehensive are welcome.
 
 If you find this repositorie is useful, a simple star should be the best affirmation. 😊
 
+<!--
 For academic used, please considering citing the following:
 ```bibtex
 @article{Guan,
@@ -20,6 +21,7 @@ For academic used, please considering citing the following:
       year={2025},
 }      
 ```
+-->
 
 Feel free to share this list with others!
 
