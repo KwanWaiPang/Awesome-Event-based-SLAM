@@ -164,7 +164,7 @@ Feel free to share this list with others!
 
 ## Event Dataset for SLAM Benchmarking
 
-* Most of the data sequence can be downloaded from *website* or *github*, while the marked as `*not-released` is not publicly available
+* Most of the data sequence can be downloaded from *website* or *github*, while the marked as `*Not-release` is not publicly available
 
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
@@ -175,13 +175,13 @@ Feel free to share this list with others!
 |---|`arXiv`|---|---|---| 
 |---|`arXiv`|---|---|---| 
 |---|`arXiv`|---|---|---| 
-|---|`arXiv`|---|---|---| 
+|2023|`CVPR`|[M3ED: Multi-Robot, Multi-Sensor, Multi-Environment Event Dataset](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Chaney_M3ED_Multi-Robot_Multi-Sensor_Multi-Environment_Event_Dataset_CVPRW_2023_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/daniilidis-group/m3ed.svg)](https://github.com/daniilidis-group/m3ed)|[website](https://m3ed.io/)| 
 |2022|`Github`|[HKU-Dataset for Event-based VO/VIO/SLAM](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM)|[![Github stars](https://img.shields.io/github/stars/arclab-hku/Event_based_VO-VIO-SLAM.svg)](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM)|HKU-Dataset|
 |2022|`RAL`|[ViViD++: Vision for Visibility Dataset](https://arxiv.org/pdf/2204.06183)|---|[website](https://visibilitydataset.github.io/)| 
 |2022|`IROS`|[FusionPortable: A Multi-Sensor Campus-Scene Dataset for Evaluation of Localization and Mapping Accuracy on Diverse Platforms](https://arxiv.org/pdf/2208.11865)|---|*Not-release| 
 |2022|`CVPR`|[Event-aided Direct Sparse Odometry](https://openaccess.thecvf.com/content/CVPR2022/papers/Hidalgo-Carrio_Event-Aided_Direct_Sparse_Odometry_CVPR_2022_paper.pdf)|---|[https://rpg.ifi.uzh.ch/eds.html](website)| 
 |2022|`RAL`|[VECtor: A Versatile Event-Centric Benchmark for Multi-Sensor SLAM](https://arxiv.org/pdf/2207.01404)|---|[website](https://star-datasets.github.io/vector/)<br>[rosbag format](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM#Modified-vector-dataset)| 
-|2021|`RAL`|[M2dgr: A multi-sensor and multi-scenario slam dataset for ground robots](https://arxiv.org/pdf/2112.13659)|[![Github stars](https://img.shields.io/github/stars/SJTU-ViSYS/M2DGR.svg)](https://github.com/SJTU-ViSYS/M2DGR)|The Event Data is just Noise| 
+|2021|`RAL`|[M2dgr: A multi-sensor and multi-scenario slam dataset for ground robots](https://arxiv.org/pdf/2112.13659)|[![Github stars](https://img.shields.io/github/stars/SJTU-ViSYS/M2DGR.svg)](https://github.com/SJTU-ViSYS/M2DGR)|*The Event Data is just Noise| 
 |2021|`IROS`|[TUM-VIE: The TUM stereo visual-inertial event dataset](https://arxiv.org/pdf/2108.07329)|---|[website](https://go.vision.in.tum.de/tumvie)| 
 |2021|`ICRA`|[An Event-based vision dataset for visual navigation tasks in agricultural environments](https://ieeexplore.ieee.org/abstract/document/9561741/)|---|AGRI-EBV-AUTUMN<br>[website](https://ieee-dataport.org/open-access/agri-ebv-autumn)| 
 |2021|`RAL`|[The GRIFFIN perception dataset: Bridging the gap between flapping-wing flight and robotic perception](https://arxiv.org/pdf/2101.10371)|---|[website](http://grvc.us.es/eye-bird-dataset)| 
