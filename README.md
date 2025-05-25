@@ -134,7 +134,6 @@ Feel free to share this list with others!
 |2019|`CVPR`|[Unsupervised event-based learning of optical flow, depth, and egomotion](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Unsupervised_Event-Based_Learning_of_Optical_Flow_Depth_and_Egomotion_CVPR_2019_paper.pdf)|-|-| 
 |2018|`CVPR`|[A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth and Optical Flow Estimation](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gallego_A_Unifying_Contrast_CVPR_2018_paper.pdf)|-|[supplementary material](https://www.ifi.uzh.ch/dam/jcr:a22071c9-b284-43c6-8f71-6433627b2db2/CVPR18_Gallego.pdf)| 
 |2018|`IJCV`|[EMVS: Event-based multi-view stereo—3D reconstruction with an event camera in real-time](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/211919/2/s11263-017-1050-6.pdf)|[![Github stars](https://img.shields.io/github/stars/uzh-rpg/rpg_emvs.svg)](https://github.com/uzh-rpg/rpg_emvs)|---|
-
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
@@ -189,7 +188,6 @@ Feel free to share this list with others!
 |2018|`RAL`|[The multivehicle stereo event camera dataset: An event camera dataset for 3D perception](https://arxiv.org/pdf/1801.10202)|---|MVSEC<br>[website](https://daniilidis-group.github.io/mvsec/)| 
 |2017|`arXiv`|[DDD17: End-to-end DAVIS driving dataset](https://arxiv.org/pdf/1711.01458)|---|[website](https://docs.google.com/document/d/1HM0CSmjO8nOpUeTvmPjopcBcVCk7KXvLUuiZFS6TWSg/pub)| 
 |2017|`IJRR`|[The event-camera dataset and simulator: Event-based data for pose estimation, visual odometry, and SLAM](https://journals.sagepub.com/doi/pdf/10.1177/0278364917691115)|---|davis240c<br>[website](https://rpg.ifi.uzh.ch/davis_data.html)|
-
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
@@ -209,3 +207,5 @@ Feel free to share this list with others!
 
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() --> 
+
+
