@@ -126,6 +126,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`CVPR`|[Active Event-based Stereo Vision](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Active_Event-based_Stereo_Vision_CVPR_2025_paper.pdf)|---|---|
 |2025|`arXiv`|[DERD-Net: Learning Depth from Event-based Ray Densities](https://arxiv.org/pdf/2504.15863)| [![Github stars](https://img.shields.io/github/stars/tub-rip/DERD-Net.svg)](https://github.com/tub-rip/DERD-Net)|---| 
 |2024|`TPAMI`|[Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10517639)|[![Github stars](https://img.shields.io/github/stars/tub-rip/event_based_optical_flow.svg)](https://github.com/tub-rip/event_based_optical_flow)|-|
 |2022|`Advanced Intelligent Systems`|[Multi-Event-Camera Depth Estimation and Outlier Rejection by Refocused Events Fusion](https://onlinelibrary.wiley.com/doi/pdf/10.1002/aisy.202200221)| [![Github stars](https://img.shields.io/github/stars/tub-rip/dvs_mcemvs.svg)](https://github.com/tub-rip/dvs_mcemvs)|---|
