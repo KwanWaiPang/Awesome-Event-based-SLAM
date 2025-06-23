@@ -30,7 +30,7 @@ Feel free to share this list with others!
 - [Event-based Pose Estimation](#Event-based-Pose-Estimation)
 - [Event-based Depth Estimation](#Event-based-Depth-Estimation)
 - [Event-based Feature Detection and Tracking](#Event-based-Feature-Detection-and-Tracking)
-- [Event-based 3DGS](#Event-based-3DGS)
+- [Event-based 3DGS](#Event-based-3DGS-or-NeRF)
 - [Event Dataset for SLAM Benchmarking](#Event-Dataset-for-SLAM-Benchmarking)
 - [Other Resources](#Other-Resources)
 
@@ -128,13 +128,20 @@ Feel free to share this list with others!
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`CVPR`|[Active Event-based Stereo Vision](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Active_Event-based_Stereo_Vision_CVPR_2025_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/jianing-li/active_event_based_stereo.svg)](https://github.com/jianing-li/active_event_based_stereo)|---|
 |2025|`arXiv`|[DERD-Net: Learning Depth from Event-based Ray Densities](https://arxiv.org/pdf/2504.15863)| [![Github stars](https://img.shields.io/github/stars/tub-rip/DERD-Net.svg)](https://github.com/tub-rip/DERD-Net)|---| 
+|2024|`CVPR`|[Multi-Modal Fusion of Event and RGB for Monocular Depth Estimation Using a Unified Transformer-based Architecture](https://openaccess.thecvf.com/content/CVPR2024W/MULA/papers/Devulapally_Multi-Modal_Fusion_of_Event_and_RGB_for_Monocular_Depth_Estimation_CVPRW_2024_paper.pdf)|---|---|
+|2024|`IEEE Transactions on Circuits and Systems for Video Technology`|[Event-based Monocular Depth Estimation with Recurrent Transformers](https://ieeexplore.ieee.org/abstract/document/10474340/)|---|---|
 |2024|`TPAMI`|[Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10517639)|[![Github stars](https://img.shields.io/github/stars/tub-rip/event_based_optical_flow.svg)](https://github.com/tub-rip/event_based_optical_flow)|-|
+|2023|`CVPR`|[Low-latency monocular depth estimation using event timing on neuromorphic hardware](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Chiavazza_Low-Latency_Monocular_Depth_Estimation_Using_Event_Timing_on_Neuromorphic_Hardware_CVPRW_2023_paper.pdf)|---|---|
 |2022|`Advanced Intelligent Systems`|[Multi-Event-Camera Depth Estimation and Outlier Rejection by Refocused Events Fusion](https://onlinelibrary.wiley.com/doi/pdf/10.1002/aisy.202200221)| [![Github stars](https://img.shields.io/github/stars/tub-rip/dvs_mcemvs.svg)](https://github.com/tub-rip/dvs_mcemvs)|---|
+|2021|`RAL`|[EOMVS: Event-Based Omnidirectional Multi-View Stereo](https://ieeexplore.ieee.org/abstract/document/9479757/)|---|---|
 |2021|`RAL`|[Combining Events and Frames using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction](https://ieeexplore.ieee.org/ielaam/7083369/9285111/9359329-aam.pdf)|[![Github stars](https://img.shields.io/github/stars/uzh-rpg/rpg_ramnet.svg)](https://github.com/uzh-rpg/rpg_ramnet)|---| 
 |2020|`3DV`|[Learning Monocular Dense Depth from Events](https://arxiv.org/pdf/2010.08350)|[![Github stars](https://img.shields.io/github/stars/uzh-rpg/rpg_e2depth.svg)](https://github.com/uzh-rpg/rpg_e2depth)|---|
+|2019|`CVPR`|[Learning event-based height from plane and parallax](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Chaney_Learning_Event-Based_Height_From_Plane_and_Parallax_CVPRW_2019_paper.pdf)|---|---| 
 |2019|`CVPR`|[Unsupervised event-based learning of optical flow, depth, and egomotion](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Unsupervised_Event-Based_Learning_of_Optical_Flow_Depth_and_Egomotion_CVPR_2019_paper.pdf)|-|-| 
 |2018|`CVPR`|[A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth and Optical Flow Estimation](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gallego_A_Unifying_Contrast_CVPR_2018_paper.pdf)|-|[supplementary material](https://www.ifi.uzh.ch/dam/jcr:a22071c9-b284-43c6-8f71-6433627b2db2/CVPR18_Gallego.pdf)| 
+|2018|`ECCV`|[Semi-dense 3D reconstruction with a stereo event camera](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yi_Zhou_Semi-Dense_3D_Reconstruction_ECCV_2018_paper.pdf)|---|[dataset](https://rpg.ifi.uzh.ch/ECCV18_stereo_davis.html)| 
 |2018|`IJCV`|[EMVS: Event-based multi-view stereo—3D reconstruction with an event camera in real-time](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/211919/2/s11263-017-1050-6.pdf)|[![Github stars](https://img.shields.io/github/stars/uzh-rpg/rpg_emvs.svg)](https://github.com/uzh-rpg/rpg_emvs)|---|
+|2018|`Frontiers in Neuroscience`|[Neuromorphic event-based generalized time-based stereovision](https://www.frontiersin.org/articles/10.3389/fnins.2018.00442/pdf)|---|---|
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
@@ -153,9 +160,19 @@ Feel free to share this list with others!
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
-## Event-based 3DGS
+## Event-based 3DGS or NeRF
 * Paper survey in 3DGS-SLAM includes the event camera, please refer to [Link](https://github.com/KwanWaiPang/Awesome-3DGS-SLAM#Event-based-3DGS)
+* NeRF:
 
+<!-- |---|`arXiv`|---|---|---| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
+| Year | Venue | Paper Title | Repository | Note |
+|:----:|:-----:| ----------- |:----------:|:----:|
+|2024|`arXiv`|[Evdnerf: Reconstructing event data with dynamic neural radiance fields](https://openaccess.thecvf.com/content/WACV2024/papers/Bhattacharya_EvDNeRF_Reconstructing_Event_Data_With_Dynamic_Neural_Radiance_Fields_WACV_2024_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/anish-bhattacharya/EvDNeRF.svg)](https://github.com/anish-bhattacharya/EvDNeRF)|---|
+|2023|`RAL`|[E-nerf: Neural radiance fields from a moving event camera](https://arxiv.org/pdf/2208.11300)|[![Github stars](https://img.shields.io/github/stars/knelk/enerf.svg)](https://github.com/knelk/enerf)|---| 
+|2023|`Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision`|[Ev-NeRF: Event based neural radiance field](https://openaccess.thecvf.com/content/WACV2023/papers/Hwang_Ev-NeRF_Event_Based_Neural_Radiance_Field_WACV_2023_paper.pdf)|---|---| 
+|2023|`NIPS`|[Multimodal Neural Surface Reconstruction: Recovering the Geometry and Appearance of 3D Scenes from Events and Grayscale Images](https://openreview.net/pdf?id=8hz6X2GGnD)|---|---| 
+|2023|`CVPR`|[EventNeRF: Neural radiance fields from a single colour event camera](http://openaccess.thecvf.com/content/CVPR2023/papers/Rudnev_EventNeRF_Neural_Radiance_Fields_From_a_Single_Colour_Event_Camera_CVPR_2023_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/r00tman/EventNeRF.svg)](https://github.com/r00tman/EventNeRF)|[website](https://4dqv.mpi-inf.mpg.de/EventNeRF/)| 
 
 
 
