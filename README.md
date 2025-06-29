@@ -41,6 +41,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`International Conference on Multimedia Retrieval`|[GRE-SLAM: 6-DoF Pure Event-Based SLAM with Semi-Dense Depth Recovery Assisted Bundle Adjustment](https://dl.acm.org/doi/abs/10.1145/3731715.3733352)|---|---|
 |2025|`arXiv`|[Radar and Event Camera Fusion for Agile Robot Ego-Motion Estimation](https://arxiv.org/pdf/2506.18443)|[![Github stars](https://img.shields.io/github/stars/ZzhYgwh/TwistEstimator.svg)](https://github.com/ZzhYgwh/TwistEstimator)|---|
 |2025|`arXiv`|[SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection](https://arxiv.org/pdf/2504.00139)|[![Github stars](https://img.shields.io/github/stars/smartroboticslab/SuperEvent.svg)](https://github.com/smartroboticslab/SuperEvent)|[website](https://smartroboticslab.github.io/SuperEvent/)| 
 |2025|`arXiv`|[SuperEIO: Self-Supervised Event Feature Learning for Event Inertial Odometry](https://arxiv.org/pdf/2503.22963)|[![Github stars](https://img.shields.io/github/stars/arclab-hku/SuperEIO.svg)](https://github.com/arclab-hku/SuperEIO)|[website](https://arclab-hku.github.io/SuperEIO/)|
