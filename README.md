@@ -182,9 +182,6 @@ Feel free to share this list with others!
 |2023|`CVPR`|[EventNeRF: Neural radiance fields from a single colour event camera](http://openaccess.thecvf.com/content/CVPR2023/papers/Rudnev_EventNeRF_Neural_Radiance_Fields_From_a_Single_Colour_Event_Camera_CVPR_2023_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/r00tman/EventNeRF.svg)](https://github.com/r00tman/EventNeRF)|[website](https://4dqv.mpi-inf.mpg.de/EventNeRF/)| 
 
 
-
-
-
 ## Event Dataset for SLAM Benchmarking
 * Most of the data sequence can be downloaded from *website* or *github*, while the marked as `*Not-release` is not publicly available
 
