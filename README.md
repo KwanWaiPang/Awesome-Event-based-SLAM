@@ -25,7 +25,6 @@ For academic used, please considering citing the following:
 
 Feel free to share this list with others!
 
-
 # Overview
 - [Event-based Pose Estimation](#Event-based-Pose-Estimation)
 - [Event-based Depth Estimation](#Event-based-Depth-Estimation)
