@@ -40,6 +40,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`Frontiers in Robotics and AI`|[VIO-GO: Optimizing Event-Based SLAM Parameters for Robust Performance in High Dynamic Range Scenarios](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2025.1541017/abstract)|---|---|
 |2025|`arXiv`|[Event-based Stereo Visual-Inertial Odometry with Voxel Map](https://arxiv.org/pdf/2506.23078)|---|---|
 |2025|`International Conference on Multimedia Retrieval`|[GRE-SLAM: 6-DoF Pure Event-Based SLAM with Semi-Dense Depth Recovery Assisted Bundle Adjustment](https://dl.acm.org/doi/abs/10.1145/3731715.3733352)|---|---|
 |2025|`arXiv`|[Radar and Event Camera Fusion for Agile Robot Ego-Motion Estimation](https://arxiv.org/pdf/2506.18443)|[![Github stars](https://img.shields.io/github/stars/ZzhYgwh/TwistEstimator.svg)](https://github.com/ZzhYgwh/TwistEstimator)|---|
