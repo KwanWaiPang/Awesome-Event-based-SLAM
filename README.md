@@ -13,7 +13,8 @@ Contributions in any form to make this list more comprehensive are welcome.
 If you find this repository useful, a simple star should be the best affirmation. 😊
 
 
-For academic use, please considering citing the following:
+For academic use, please consider citing the following:
+
 ```bibtex
 @article{Guan,
       title={Event-based Vision for 6-DOF Pose Tracking and 3D Mapping},
