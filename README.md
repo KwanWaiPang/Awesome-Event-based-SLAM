@@ -10,10 +10,10 @@ If you find some ignored papers, **feel free to [*create pull requests*](https:/
 
 Contributions in any form to make this list more comprehensive are welcome.
 
-If you find this repositorie is useful, a simple star should be the best affirmation. 😊
+If you find this repository useful, a simple star should be the best affirmation. 😊
 
-<!--
-For academic used, please considering citing the following:
+
+For academic use, please considering citing the following:
 ```bibtex
 @article{Guan,
       title={Event-based Vision for 6-DOF Pose Tracking and 3D Mapping},
@@ -21,7 +21,6 @@ For academic used, please considering citing the following:
       year={2025},
 }      
 ```
--->
 
 Feel free to share this list with others!
 
