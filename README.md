@@ -6,7 +6,7 @@
 
 This repository contains a curated list of resources addressing SLAM using *Event Camera*.
 
-If you find some ignored papers, **feel free to [*create pull requests*](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM/blob/pdf/How-to-PR.md), or [*open issues*](https://github.com/KwanWaiPang/Awesome-Event-based-SLAM/issues/new)**. 
+If you find some ignored papers, **feel free to [*create pull requests*](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM/blob/pdf/How-to-PR.md), or [*open issues*](https://github.com/KwanWaiPang/Awesome-Event-based-SLAM/issues/new)**.
 
 Contributions in any form to make this list more comprehensive are welcome.
 
