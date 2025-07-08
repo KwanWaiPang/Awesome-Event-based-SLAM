@@ -12,7 +12,7 @@ Contributions in any form to make this list more comprehensive are welcome.
 
 If you find this repository useful, a simple star should be the best affirmation. 😊
 
-
+<!--
 For academic use, please consider citing the following:
 
 ```bibtex
@@ -22,6 +22,7 @@ For academic use, please consider citing the following:
       year={2025},
 }      
 ```
+-->
 
 Feel free to share this list with others!
 
