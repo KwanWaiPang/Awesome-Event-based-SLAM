@@ -52,7 +52,7 @@ Feel free to share this list with others!
 |2025|`TRO`|[Esvo2: Direct visual-inertial odometry with stereo event cameras](https://arxiv.org/pdf/2410.09374?)| [![Github stars](https://img.shields.io/github/stars/NAIL-HNU/ESVO2.svg)](https://github.com/NAIL-HNU/ESVO2)|---| 
 |2025|`IJCV`|[METS: Motion-Encoded Time-Surface for Event-Based High-Speed Pose Tracking](https://link.springer.com/article/10.1007/s11263-025-02379-6)|---|---| 
 |2025|`Sensor`|[Stereo Event-Based Visual--Inertial Odometry](https://pmc.ncbi.nlm.nih.gov/articles/PMC11819757/)|---|---| 
-|2024|`arXiv`|[DEIO: Deep Event Inertial Odometry](https://arxiv.org/pdf/2411.03928)|[![Github stars](https://img.shields.io/github/stars/arclab-hku/DEIO.svg)](https://github.com/arclab-hku/DEIO)|[website](https://kwanwaipang.github.io/DEIO/)|
+|2025|`ICCV`|[DEIO: Deep Event Inertial Odometry](https://arxiv.org/pdf/2411.03928)|[![Github stars](https://img.shields.io/github/stars/arclab-hku/DEIO.svg)](https://github.com/arclab-hku/DEIO)|[website](https://kwanwaipang.github.io/DEIO/)|
 |2024|`IROS`|[Deep Visual Odometry with Events and Frames](https://arxiv.org/pdf/2309.09947)|[![Github stars](https://img.shields.io/github/stars/uzh-rpg/rampvo.svg)](https://github.com/uzh-rpg/rampvo)|RAMP-VO| 
 |2024|`arXiv`|[EROAM: Event-based Camera Rotational Odometry and Mapping in Real-time](https://arxiv.org/pdf/2411.11004)|[![Github stars](https://img.shields.io/github/stars/wlxing1901/eroam.svg)](https://github.com/wlxing1901/eroam)|-|
 |2024|`3DV`|[Deep event visual odometry](https://arxiv.org/pdf/2312.09800)|[![Github stars](https://img.shields.io/github/stars/tum-vision/DEVO.svg)](https://github.com/tum-vision/DEVO)|---|
