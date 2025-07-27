@@ -131,6 +131,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`IJCV`|[High-Rate Monocular Depth Estimation via Cross Frame-Rate Collaboration of Frames and Events](https://link.springer.com/article/10.1007/s11263-025-02488-2)|[![Github stars](https://img.shields.io/github/stars/liuxu0303/CFRNet.svg)](https://github.com/liuxu0303/CFRNet)|---|
 |2025|`CVPR`|[Active Event-based Stereo Vision](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Active_Event-based_Stereo_Vision_CVPR_2025_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/jianing-li/active_event_based_stereo.svg)](https://github.com/jianing-li/active_event_based_stereo)|---|
 |2025|`arXiv`|[DERD-Net: Learning Depth from Event-based Ray Densities](https://arxiv.org/pdf/2504.15863)| [![Github stars](https://img.shields.io/github/stars/tub-rip/DERD-Net.svg)](https://github.com/tub-rip/DERD-Net)|---| 
 |2024|`CVPR`|[Multi-Modal Fusion of Event and RGB for Monocular Depth Estimation Using a Unified Transformer-based Architecture](https://openaccess.thecvf.com/content/CVPR2024W/MULA/papers/Devulapally_Multi-Modal_Fusion_of_Event_and_RGB_for_Monocular_Depth_Estimation_CVPRW_2024_paper.pdf)|---|---|
