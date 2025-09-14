@@ -41,6 +41,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`RAL`|[Deep Visual Odometry for Stereo Event Cameras](https://arxiv.org/pdf/2509.08235)|[![Github stars](https://img.shields.io/github/stars/NAIL-HNU/SDEVO.svg)](https://github.com/NAIL-HNU/SDEVO)|---|
 |2025|`arXiv`|[Hybrid-EVIO: Event-Based Visual-Inertial Odometry with Hybrid Visual Front-End](https://d197for5662m48.cloudfront.net/documents/publicationstatus/271140/preprint_pdf/0df0618f5884765d05a9f463bf47191f.pdf)|[![Github stars](https://img.shields.io/github/stars/sssxxxkkkk/hybrid_EVIO.svg)](https://github.com/sssxxxkkkk/hybrid_EVIO)|---| 
 |2025|`Frontiers in Robotics and AI`|[VIO-GO: Optimizing Event-Based SLAM Parameters for Robust Performance in High Dynamic Range Scenarios](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2025.1541017/abstract)|---|---|
 |2025|`arXiv`|[Event-based Stereo Visual-Inertial Odometry with Voxel Map](https://arxiv.org/pdf/2506.23078)|---|---|
