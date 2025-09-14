@@ -12,17 +12,17 @@ Contributions in any form to make this list more comprehensive are welcome.
 
 If you find this repository useful, a simple star should be the best affirmation. 😊
 
-<!--
 For academic use, please consider citing the following:
 
 ```bibtex
 @article{GuanPhDThesis,
       title={Event-based Vision for 6-DOF Pose Tracking and 3D Mapping},
       author={Guan, Weipeng},
+      journal={HKU Theses Online (HKUTO)},
       year={2025},
+      publisher={The University of Hong Kong (Pokfulam, Hong Kong)}
 }      
 ```
--->
 
 Feel free to share this list with others!
 
