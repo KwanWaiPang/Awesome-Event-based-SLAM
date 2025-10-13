@@ -65,7 +65,7 @@ Feel free to share this list with others!
 |2024|`IROS`|[EVIT: Event-based visual-inertial tracking in semi-dense maps using windowed nonlinear optimization](https://arxiv.org/pdf/2408.01370)|[![Github stars](https://img.shields.io/github/stars/MobilePerceptionLab/Canny-EVT.svg)](https://github.com/MobilePerceptionLab/Canny-EVT)|---| 
 |2024|`TRO`|[Cross-modal semi-dense 6-dof tracking of an event camera in challenging conditions](https://arxiv.org/pdf/2401.08043)|[![Github stars](https://img.shields.io/github/stars/MobilePerceptionLab/Canny-EVT.svg)](https://github.com/MobilePerceptionLab/Canny-EVT)|---| 
 |2024|`IROS`|[Asynchronous Event-Inertial Odometry using a Unified Gaussian Process Regression Framework](https://arxiv.org/pdf/2412.03136)|---|---| 
-|2024|`arXiv`|[AsynEIO: Asynchronous Monocular Event-Inertial Odometry Using Gaussian Process Regression](https://arxiv.org/pdf/2411.12175)|---|---| 
+|2025|`TRO`|[AsynEIO: Asynchronous Monocular Event-Inertial Odometry Using Gaussian Process Regression](https://arxiv.org/pdf/2411.12175)|---|---| 
 |2024|`arXiv`|[Efficient Continuous-Time Ego-Motion Estimation for Asynchronous Event-based Data Associations](https://ui.adsabs.harvard.edu/abs/2024arXiv240216398W/abstract)|---|---| 
 |2024|`ECCV`|[ES-PTAM: Event-based stereo parallel tracking and mapping](https://arxiv.org/pdf/2408.15605)|[![Github stars](https://img.shields.io/github/stars/tub-rip/ES-PTAM.svg)](https://github.com/tub-rip/ES-PTAM) |---| 
 |2024|`ECCV`|[Event-based mosaicing bundle adjustment](https://link.springer.com/chapter/10.1007/978-3-031-72624-8_27)|[![Github stars](https://img.shields.io/github/stars/tub-rip/emba.svg)](https://github.com/tub-rip/emba) |---| 
