@@ -135,6 +135,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`IROS`|[Depth Estimation from Moving Stereo Event Cameras without Motion Cues](https://openreview.net/pdf?id=JxQeCNabIy)|---|---|
 |2025|`ICCV`|[EventUPS: Uncalibrated Photometric Stereo Using an Event Camera](https://openaccess.thecvf.com/content/ICCV2025/papers/Liang_EventUPS_Uncalibrated_Photometric_Stereo_Using_an_Event_Camera_ICCV_2025_paper.pdf)|---|---|
 |2025|`Expert Systems with Applications`|[Spiking Depth: Depth Estimation from Sparse Events with Spiking Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0957417425035924)|---|---|
 |2025|`IJCV`|[High-Rate Monocular Depth Estimation via Cross Frame-Rate Collaboration of Frames and Events](https://link.springer.com/article/10.1007/s11263-025-02488-2)|[![Github stars](https://img.shields.io/github/stars/liuxu0303/CFRNet.svg)](https://github.com/liuxu0303/CFRNet)|---|
