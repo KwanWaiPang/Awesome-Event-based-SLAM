@@ -201,6 +201,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[EvtSlowTV--A Large and Diverse Dataset for Event-Based Depth Estimation](https://arxiv.org/pdf/2511.02953)|---|---|
 |2025|`arXiv`|[EvtSlowTV-A Large and Diverse Dataset for Event-Based Depth Estimation](https://arxiv.org/pdf/2511.02953)|---|---|
 |2025|`IROS`|[SPECTRA: Synchronized Stereo Event-Camera Driving Dataset for Diverse Perception Tasks](https://openreview.net/pdf?id=mqCUxEsfsI)|---|---|
 |2025|`arXiv`|[MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection](https://arxiv.org/pdf/2505.11282)|[![Github stars](https://img.shields.io/github/stars/shrutarv/MTevent_toolkit.svg)](https://github.com/shrutarv/MTevent_toolkit) |[website](https://huggingface.co/datasets/anas-gouda/MTevent)| 
