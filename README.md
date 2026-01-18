@@ -201,6 +201,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|` International Journal of Applied Earth Observation and Geoinformation`|[WECMD: A multisensor dataset for wearable event cameras in the age of embodied intelligence](https://www.sciencedirect.com/science/article/pii/S1569843225006661)|---|---|
 |2025|`arXiv`|[EvtSlowTV--A Large and Diverse Dataset for Event-Based Depth Estimation](https://arxiv.org/pdf/2511.02953)|---|---|
 |2025|`arXiv`|[EvtSlowTV-A Large and Diverse Dataset for Event-Based Depth Estimation](https://arxiv.org/pdf/2511.02953)|---|---|
 |2025|`IROS`|[SPECTRA: Synchronized Stereo Event-Camera Driving Dataset for Diverse Perception Tasks](https://openreview.net/pdf?id=mqCUxEsfsI)|---|---|
