@@ -28,12 +28,12 @@ Feel free to share this list with others!
 
 # Overview
 - [Overview](#overview)
-  - [Event-based Pose Estimation](#event-based-pose-estimation)
-  - [Event-based Depth Estimation](#event-based-depth-estimation)
-  - [Event-based Feature Detection and Tracking](#event-based-feature-detection-and-tracking)
-  - [Event-based 3DGS or NeRF](#event-based-3dgs-or-nerf)
-  - [Event Dataset for SLAM Benchmarking](#event-dataset-for-slam-benchmarking)
-  - [Other Resources](#other-resources)
+- [Event-based Pose Estimation](#event-based-pose-estimation)
+- [Event-based Depth Estimation](#event-based-depth-estimation)
+- [Event-based Feature Detection and Tracking](#event-based-feature-detection-and-tracking)
+- [Event-based 3DGS or NeRF](#event-based-3dgs-or-nerf)
+- [Event Dataset for SLAM Benchmarking](#event-dataset-for-slam-benchmarking)
+- [Other Resources](#other-resources)
 
 
 ## Event-based Pose Estimation
