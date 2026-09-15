@@ -27,12 +27,13 @@ For academic use, please consider citing the following:
 Feel free to share this list with others!
 
 # Overview
-- [Event-based Pose Estimation](#Event-based-Pose-Estimation)
-- [Event-based Depth Estimation](#Event-based-Depth-Estimation)
-- [Event-based Feature Detection and Tracking](#Event-based-Feature-Detection-and-Tracking)
-- [Event-based 3DGS or NeRF](#Event-based-3DGS-or-NeRF)
-- [Event Dataset for SLAM Benchmarking](#Event-Dataset-for-SLAM-Benchmarking)
-- [Other Resources](#Other-Resources)
+- [Overview](#overview)
+  - [Event-based Pose Estimation](#event-based-pose-estimation)
+  - [Event-based Depth Estimation](#event-based-depth-estimation)
+  - [Event-based Feature Detection and Tracking](#event-based-feature-detection-and-tracking)
+  - [Event-based 3DGS or NeRF](#event-based-3dgs-or-nerf)
+  - [Event Dataset for SLAM Benchmarking](#event-dataset-for-slam-benchmarking)
+  - [Other Resources](#other-resources)
 
 
 ## Event-based Pose Estimation
@@ -41,6 +42,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2026|`ECCV`|[REALM: An RGB- and Event-Aligned Latent Manifold for Cross-Modal Perception](https://link.springer.com/chapter/10.1007/978-3-032-37369-4_1)|[![Github stars](https://img.shields.io/github/stars/utiasSTARS/REALM)](https://github.com/utiasSTARS/REALM)|[Website](https://papers.starslab.ca/realm/)|
 |2025|`ICCV`|[Event-based Spinning Object SLAM](https://openaccess.thecvf.com/content/ICCV2025W/NeVi/papers/Elms_Event-based_Spinning_Object_SLAM_ICCVW_2025_paper.pdf)|---|---|
 |2025|`arXiv`|[Enabling High-Frequency Cross-Modality Visual Positioning Service for Accurate Drone Landing](https://arxiv.org/pdf/2510.00646)|[![Github stars](https://img.shields.io/github/stars/ev-pose/ev-pose.github.io.svg)](https://github.com/ev-pose/ev-pose.github.io)|[Website](https://ev-pose.github.io/)|
 |2025|`RAL`|[Deep Visual Odometry for Stereo Event Cameras](https://arxiv.org/pdf/2509.08235)|[![Github stars](https://img.shields.io/github/stars/NAIL-HNU/SDEVO.svg)](https://github.com/NAIL-HNU/SDEVO)|---|
